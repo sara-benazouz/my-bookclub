@@ -1,0 +1,14 @@
+.btn-blue,
+.shout-button,
+.copy-email {
+  background-color: #957662;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  border: none;
+}
+.copy-email {
+  padding: 10px 15px;
+  font-size: 14px;
+}
